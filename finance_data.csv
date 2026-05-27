@@ -1,0 +1,89 @@
+date,amount,category,description
+05-01-2025,1500,Income,Salary
+11-01-2025,120,Expense,Groceries
+18-01-2025,300,Expense,Rent
+24-01-2025,250,Income,Freelance Work
+
+03-02-2025,80,Expense,Transport
+09-02-2025,60,Expense,Coffee
+15-02-2025,500,Income,Bonus
+22-02-2025,150,Expense,Utilities
+
+02-03-2025,90,Expense,Snacks
+10-03-2025,220,Income,Stock Dividends
+17-03-2025,130,Expense,Entertainment
+25-03-2025,75,Expense,Books
+
+04-04-2025,100,Expense,Gas
+12-04-2025,180,Expense,Restaurant
+19-04-2025,1600,Income,Salary
+28-04-2025,45,Expense,Stationery
+
+06-05-2025,210,Expense,Utilities
+13-05-2025,300,Income,Freelance Work
+20-05-2025,110,Expense,Groceries
+29-05-2025,140,Expense,Transport
+
+07-06-2025,550,Income,Bonus
+14-06-2025,65,Expense,Coffee
+21-06-2025,250,Income,Stock Dividends
+30-06-2025,170,Expense,Entertainment
+
+05-07-2025,95,Expense,Snacks
+11-07-2025,130,Expense,Gas
+18-07-2025,85,Expense,Books
+27-07-2025,200,Expense,Clothing
+
+02-08-2025,1700,Income,Salary
+09-08-2025,55,Expense,Stationery
+16-08-2025,240,Expense,Utilities
+25-08-2025,320,Income,Freelance Work
+
+04-09-2025,125,Expense,Groceries
+13-09-2025,350,Expense,Rent
+20-09-2025,650,Income,Bonus
+28-09-2025,180,Expense,Utilities
+
+06-10-2025,110,Expense,Snacks
+15-10-2025,270,Income,Stock Dividends
+22-10-2025,160,Expense,Entertainment
+30-10-2025,90,Expense,Books
+
+05-11-2025,140,Expense,Gas
+12-11-2025,220,Expense,Restaurant
+19-11-2025,1900,Income,Salary
+27-11-2025,60,Expense,Stationery
+
+03-12-2025,260,Expense,Utilities
+10-12-2025,400,Income,Freelance Work
+18-12-2025,135,Expense,Groceries
+29-12-2025,170,Expense,Transport
+
+07-01-2026,2000,Income,Salary
+14-01-2026,150,Expense,Groceries
+22-01-2026,450,Expense,Rent
+31-01-2026,500,Income,Freelance Work
+
+05-02-2026,100,Expense,Transport
+13-02-2026,75,Expense,Coffee
+21-02-2026,700,Income,Bonus
+27-02-2026,210,Expense,Utilities
+
+03-03-2026,120,Expense,Snacks
+08-03-2026,300,Income,Stock Dividends
+14-03-2026,180,Expense,Entertainment
+21-03-2026,95,Expense,Books
+29-03-2026,2100,Income,Salary
+
+04-04-2026,160,Expense,Gas
+09-04-2026,260,Expense,Restaurant
+15-04-2026,450,Income,Freelance Work
+22-04-2026,70,Expense,Stationery
+30-04-2026,280,Expense,Utilities
+
+05-05-2026,145,Expense,Groceries
+11-05-2026,800,Income,Bonus
+18-05-2026,190,Expense,Transport
+24-05-2026,350,Income,Stock Dividends
+27-05-2026,250.0,Expense,food
+27-05-2026,657.0,Income,side hustle
