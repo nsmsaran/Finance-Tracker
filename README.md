@@ -1,6 +1,6 @@
 # Personal Finance Tracker 💰
 
-Hi! I'm Saranya, and this is my Python-based Personal Finance Tracker project.  
+Hi! I'm **Saranya**, and this is my Python-based Personal Finance Tracker project.  
 It is a simple command-line application that helps users manage their income and expenses in an organized way.
 
 ---
